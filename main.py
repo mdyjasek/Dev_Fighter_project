@@ -33,3 +33,6 @@ elif weight >= mars_2 * weight:
   print("You can only attend mars_2")
 else:
   print("Lose some weight THICC BOI, You are unable to attend all fights")
+
+  #Hey this Devin, i add this line below
+  hey_matt = "you suck"
